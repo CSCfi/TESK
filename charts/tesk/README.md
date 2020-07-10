@@ -1,6 +1,6 @@
 # Deployment instructions for TESK
 
-Helm chart and config to deploy the TESK service. Tested with Helm v3.0.0.
+Helm chart and config to deploy the TESK service. Tested with Helm v3.0.0 and v3.2.0.
 
 ## Usage
 
